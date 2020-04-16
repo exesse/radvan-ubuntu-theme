@@ -1,6 +1,6 @@
-##Ubuntu Visual Customizations.
+# Ubuntu Visual Customizations.
 
-###Setup Terminal Colors
+### Setup Terminal Colors.
 
 Pallette: XTerm
 
